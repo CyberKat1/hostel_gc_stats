@@ -1,0 +1,40 @@
+h2{
+	text-align: center;
+}
+
+caption {
+	font-size: 1.3rem;
+}
+
+body {
+	font-family: 'Montserrat', Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f7f7f7;
+	color: #333;
+}
+
+header {
+	background-color: #96B6C5;
+	text-align: center;
+	padding: 1rem 0;
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+a:link, a:visited {
+	color: #615b50;
+}
+
+a:hover {
+	color: #8f8677;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  text-align: center;
+}
